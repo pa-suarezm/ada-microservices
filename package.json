@@ -1,0 +1,25 @@
+{
+  "name": "ada-microservices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pa-suarezm/ada-microservices.git"
+  },
+  "author": "Pablo Suarez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pa-suarezm/ada-microservices/issues"
+  },
+  "homepage": "https://github.com/pa-suarezm/ada-microservices#readme",
+  "dependencies": {
+    "@netlify/functions": "^0.7.2",
+    "netlify-cli": "^6.9.0",
+    "node-fetch": "^3.0.0",
+    "typescript": "^4.4.3"
+  }
+}
